@@ -1,6 +1,6 @@
-# goodmart-project
+# Nice Market
 
-e-Commerce project created on MERN stack course.  (Brad Traversy) 
+e-Commerce project created on MERN stack course. 
 
 ## Features
 
